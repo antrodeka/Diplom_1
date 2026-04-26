@@ -1,8 +1,5 @@
 from ingredient_types import INGREDIENT_TYPE_FILLING, INGREDIENT_TYPE_SAUCE
 
-bun_name = "Булка"
-bun_price = 12.0
-
 
 class TestData:
 
